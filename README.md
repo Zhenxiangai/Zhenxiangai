@@ -132,7 +132,7 @@
   <h3>⚡ 最近 GitHub 活动</h3>
 
   <!--START_SECTION:activity-->
-  _公开 Issue、PR、Release 和评论会在这里自动更新。_
+1. 💪 Opened PR [#2](https://github.com/Zhenxiangai/hermes-agent-skills-forge/pull/2) in [Zhenxiangai/hermes-agent-skills-forge](https://github.com/Zhenxiangai/hermes-agent-skills-forge)
   <!--END_SECTION:activity-->
 </details>
 
