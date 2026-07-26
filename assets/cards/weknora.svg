@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="170" viewBox="0 0 520 170" role="img" aria-labelledby="title desc">
+  <title id="title">WeKnora</title>
+  <desc id="desc">腾讯开源的 LLM 知识平台</desc>
+  <rect x="1" y="1" width="518" height="168" rx="10" fill="#111416" stroke="#30363d" />
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="24" y="38" fill="#9bff18" font-size="20" font-weight="700">WeKnora</text>
+    <text x="24" y="61" fill="#8b949e" font-size="12">Tencent</text>
+    <text x="24" y="91" fill="#c6cac4" font-size="13">Turn raw documents into a queryable RAG, reasoning</text>
+    <text x="24" y="111" fill="#c6cac4" font-size="13">agent and self-maintaining Wiki.</text>
+    <circle cx="30" cy="144" r="5" fill="#00add8" />
+    <text x="42" y="149" fill="#c6cac4" font-size="12">Go</text>
+    <text x="358" y="149" fill="#f8d866" font-size="12">★ 18.9k</text>
+    <text x="446" y="149" fill="#c6cac4" font-size="12">⑂ 2.6k</text>
+  </g>
+</svg>

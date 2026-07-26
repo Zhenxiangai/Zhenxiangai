@@ -1,69 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180" role="img" aria-labelledby="title desc">
   <title id="title">ZhenxiangAI</title>
-  <desc id="desc">AI 实践、Agent 工作流与独立构建</desc>
+  <desc id="desc">AI Agent、个人知识系统与工作流自动化</desc>
 
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#080a0b" />
-      <stop offset="0.55" stop-color="#111416" />
-      <stop offset="1" stop-color="#080a0b" />
-    </linearGradient>
-    <radialGradient id="halo" cx="78%" cy="44%" r="46%">
-      <stop offset="0" stop-color="#9bff18" stop-opacity="0.18" />
-      <stop offset="0.6" stop-color="#9bff18" stop-opacity="0.04" />
-      <stop offset="1" stop-color="#9bff18" stop-opacity="0" />
-    </radialGradient>
-    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
-      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#c6cac4" stroke-opacity="0.07" stroke-width="1" />
-    </pattern>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="7" result="blur" />
+    <filter id="glow" x="-30%" y="-60%" width="160%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
         <feMergeNode in="SourceGraphic" />
       </feMerge>
     </filter>
-    <clipPath id="panel">
-      <rect x="24" y="24" width="1152" height="312" rx="22" />
-    </clipPath>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9bff18" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#9bff18" stop-opacity="0.9" />
+      <stop offset="1" stop-color="#9bff18" stop-opacity="0" />
+    </linearGradient>
   </defs>
 
-  <rect width="1200" height="360" rx="24" fill="url(#background)" />
-  <g clip-path="url(#panel)">
-    <rect x="24" y="24" width="1152" height="312" fill="url(#grid)" />
-    <rect x="24" y="24" width="1152" height="312" fill="url(#halo)" />
-
-    <path d="M738 50 H1118" stroke="#9bff18" stroke-opacity="0.28" stroke-width="1" />
-    <path d="M798 310 H1118" stroke="#9bff18" stroke-opacity="0.18" stroke-width="1" />
-    <path d="M1062 50 V310" stroke="#9bff18" stroke-opacity="0.16" stroke-width="1" />
-
-    <g fill="none" stroke="#9bff18">
-      <path d="M780 198 L858 126 L940 166 L1022 92 L1110 152" stroke-opacity="0.72" stroke-width="2" />
-      <path d="M782 238 L876 236 L954 278 L1040 218 L1120 250" stroke-opacity="0.3" stroke-width="1.5" />
-      <circle cx="780" cy="198" r="7" fill="#080a0b" />
-      <circle cx="858" cy="126" r="7" fill="#080a0b" />
-      <circle cx="940" cy="166" r="10" fill="#9bff18" filter="url(#glow)" />
-      <circle cx="1022" cy="92" r="7" fill="#080a0b" />
-      <circle cx="1110" cy="152" r="7" fill="#080a0b" />
-      <circle cx="782" cy="238" r="5" fill="#080a0b" stroke-opacity="0.45" />
-      <circle cx="876" cy="236" r="5" fill="#080a0b" stroke-opacity="0.45" />
-      <circle cx="954" cy="278" r="5" fill="#080a0b" stroke-opacity="0.45" />
-      <circle cx="1040" cy="218" r="5" fill="#080a0b" stroke-opacity="0.45" />
-      <circle cx="1120" cy="250" r="5" fill="#080a0b" stroke-opacity="0.45" />
-    </g>
-
-    <g transform="translate(76 78)">
-      <rect width="78" height="78" rx="18" fill="#9bff18" />
-      <path d="M19 20 H59 L25 58 H60" fill="none" stroke="#080a0b" stroke-linecap="square" stroke-linejoin="miter" stroke-width="9" />
-    </g>
-
-    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">
-      <text x="76" y="218" fill="#9bff18" font-size="58" font-weight="750" letter-spacing="-1">ZhenxiangAI</text>
-      <text x="80" y="262" fill="#9bff18" font-size="22" font-weight="600" letter-spacing="2">AI 实践 · AGENT 工作流 · 独立构建</text>
-      <text x="80" y="298" fill="#929891" font-size="17" letter-spacing="0.6">Making powerful AI tools easier to use.</text>
-    </g>
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" text-anchor="middle">
+    <text x="500" y="75" fill="#9bff18" font-size="56" font-weight="750" letter-spacing="-1" filter="url(#glow)">ZhenxiangAI</text>
+    <text x="500" y="116" fill="#6e7781" font-size="17" font-weight="600" letter-spacing="2">AI AGENT · PERSONAL KNOWLEDGE · AUTOMATION</text>
   </g>
 
-  <rect x="24.5" y="24.5" width="1151" height="311" rx="21.5" fill="none" stroke="#3a403d" />
-  <path d="M53 24.5 H216" stroke="#9bff18" stroke-width="2" />
+  <path d="M270 143 H730" stroke="url(#line)" stroke-width="2" />
+  <circle cx="500" cy="143" r="4" fill="#9bff18" />
 </svg>
