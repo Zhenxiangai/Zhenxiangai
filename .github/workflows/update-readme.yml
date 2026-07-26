@@ -1,0 +1,34 @@
+name: Update profile activity
+
+on:
+  schedule:
+    - cron: "23 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme-update
+  cancel-in-progress: true
+
+jobs:
+  recent-activity:
+    name: Refresh recent GitHub activity
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Update recent activity
+        uses: jamesgeorge007/github-activity-readme@4aefbfa1c222d70537dc6a02f0519266aab2b1ea
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          GH_USERNAME: "Zhenxiangai"
+          COMMIT_MSG: "chore: update recent GitHub activity"
+          MAX_LINES: "5"
+          TARGET_FILE: "README.md"
+          FILTER_EVENTS: "IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent"
