@@ -58,7 +58,7 @@
     </g>
 
     <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">
-      <text x="76" y="218" fill="#f1f2ee" font-size="58" font-weight="750" letter-spacing="-1">ZhenxiangAI</text>
+      <text x="76" y="218" fill="#9bff18" font-size="58" font-weight="750" letter-spacing="-1">ZhenxiangAI</text>
       <text x="80" y="262" fill="#9bff18" font-size="22" font-weight="600" letter-spacing="2">AI 实践 · AGENT 工作流 · 独立构建</text>
       <text x="80" y="298" fill="#929891" font-size="17" letter-spacing="0.6">Making powerful AI tools easier to use.</text>
     </g>
