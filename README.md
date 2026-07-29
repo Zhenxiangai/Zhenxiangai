@@ -132,7 +132,7 @@
   <h3>⚡ 最近 GitHub 活动</h3>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/Zhenxiangai/hermes-agent-skills-forge/pull/4) in [Zhenxiangai/hermes-agent-skills-forge](https://github.com/Zhenxiangai/hermes-agent-skills-forge)
+1. 💪 Opened PR [#6](https://github.com/mcncarl/yichen-skills/pull/6) in [mcncarl/yichen-skills](https://github.com/mcncarl/yichen-skills)
   <!--END_SECTION:activity-->
 </details>
 
