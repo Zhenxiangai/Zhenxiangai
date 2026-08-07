@@ -132,7 +132,7 @@
   <h3>⚡ 最近 GitHub 活动</h3>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/mcncarl/yichen-skills/pull/6) in [mcncarl/yichen-skills](https://github.com/mcncarl/yichen-skills)
+1. 🚀 Published release [v2.3.0 — Adaptive Onboarding Skill for Hermes](https://github.com/Zhenxiangai/zhenxiang-hermes-knowme/releases/tag/v2.3.0) in [Zhenxiangai/zhenxiang-hermes-knowme](https://github.com/Zhenxiangai/zhenxiang-hermes-knowme)
   <!--END_SECTION:activity-->
 </details>
 
