@@ -132,7 +132,7 @@
   <h3>⚡ 最近 GitHub 活动</h3>
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.6.0 — 微信视频号归档与无人值守转写](https://github.com/Zhenxiangai/wechat-archive/releases/tag/v0.6.0) in [Zhenxiangai/wechat-archive](https://github.com/Zhenxiangai/wechat-archive)
+1. 🚀 Published release [v1.0.2 — Link Video Downloader by ZhenxiangAI](https://github.com/Zhenxiangai/link-video-downloader-zhenxiangai/releases/tag/v1.0.2) in [Zhenxiangai/link-video-downloader-zhenxiangai](https://github.com/Zhenxiangai/link-video-downloader-zhenxiangai)
   <!--END_SECTION:activity-->
 </details>
 
