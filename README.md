@@ -34,17 +34,24 @@
 <details open>
   <summary><h2>🚀 当前实践</h2></summary>
 
-  <p>正在验证和整理的公开实践分支。该仓库为 Fork，会明确保留原项目来源。</p>
+  <p>最近更新的公开原创项目。新建项目或推送更新后会自动刷新；Fork、私有与归档仓库不会展示。</p>
 
-  <p align="center">
-    <a href="https://github.com/Zhenxiangai/hermes-agent-skills-forge">
-      <img
-        width="49%"
-        alt="hermes-agent-skills-forge"
-        src="./assets/cards/hermes-agent-skills-forge.svg"
-      />
-    </a>
-  </p>
+<!--START_SECTION:current_projects-->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Zhenxiangai/link-video-downloader-zhenxiangai"><strong>link-video-downloader-zhenxiangai</strong></a><br />
+      把视频号、B站、小红书或抖音链接发给 Hermes，在 Mac 本地完成下载、整理和逐字稿；支持视频号、B站、抖音博主批量抓取。<br />
+      <sub>Python · 最近更新 2026-08-13</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Zhenxiangai/zhenxiang-hermes-knowme"><strong>zhenxiang-hermes-knowme</strong></a><br />
+      暂无项目简介<br />
+      <sub>最近更新 2026-08-07</sub>
+    </td>
+  </tr>
+</table>
+<!--END_SECTION:current_projects-->
 </details>
 
 <details open>
