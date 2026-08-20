@@ -42,7 +42,7 @@
     <td width="50%" valign="top">
       <a href="https://github.com/Zhenxiangai/link-video-downloader-zhenxiangai"><strong>link-video-downloader-zhenxiangai</strong></a><br />
       把视频号、B站、小红书或抖音链接发给 Hermes，在 Mac 本地完成下载、整理和逐字稿；支持视频号、B站、抖音博主批量抓取。<br />
-      <sub>Python · 最近更新 2026-08-17</sub>
+      <sub>Python · 最近更新 2026-08-20</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Zhenxiangai/zhenxiang-hermes-knowme"><strong>zhenxiang-hermes-knowme</strong></a><br />
