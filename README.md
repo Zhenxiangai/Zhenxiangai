@@ -139,7 +139,7 @@
   <h3>⚡ 最近 GitHub 活动</h3>
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.4 — WeChat Official Account current-session compatibility](https://github.com/Zhenxiangai/link-video-downloader-zhenxiangai/releases/tag/v1.2.4) in [Zhenxiangai/link-video-downloader-zhenxiangai](https://github.com/Zhenxiangai/link-video-downloader-zhenxiangai)
+1. 🚀 Published release [v1.2.5 — image-only Official Account archive compatibility](https://github.com/Zhenxiangai/link-video-downloader-zhenxiangai/releases/tag/v1.2.5) in [Zhenxiangai/link-video-downloader-zhenxiangai](https://github.com/Zhenxiangai/link-video-downloader-zhenxiangai)
   <!--END_SECTION:activity-->
 </details>
 
