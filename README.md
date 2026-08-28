@@ -139,7 +139,7 @@
   <h3>⚡ 最近 GitHub 活动</h3>
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.3.1 — WeChat Official Account batch resilience](https://github.com/Zhenxiangai/link-video-downloader-zhenxiangai/releases/tag/v1.3.1) in [Zhenxiangai/link-video-downloader-zhenxiangai](https://github.com/Zhenxiangai/link-video-downloader-zhenxiangai)
+1. 🗣 Commented on [#96809](https://github.com/NousResearch/hermes-agent/pull/96809#issuecomment-5448480307) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   <!--END_SECTION:activity-->
 </details>
 
