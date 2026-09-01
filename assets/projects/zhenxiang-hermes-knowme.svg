@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="184" viewBox="0 0 520 184" role="img" aria-labelledby="title desc">
+  <title id="title">zhenxiang-hermes-knowme</title>
+  <desc id="desc">Hermes Agent 的自适应 onboarding 技能：通过访谈建立协作档案，并在授权后写入记忆、推荐官方集成。</desc>
+  <rect x="1" y="1" width="518" height="182" rx="12" fill="#111416" stroke="#30363d" />
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">
+    <text x="24" y="39" fill="#9bff18" font-size="20" font-weight="700">zhenxiang-hermes-knowme</text>
+    <text x="24" y="63" fill="#8b949e" font-size="12">Zhenxiangai</text>
+    <text x="24" y="96" fill="#c6cac4" font-size="13">Hermes Agent 的自适应 onboarding</text>
+    <text x="24" y="116" fill="#c6cac4" font-size="13">技能：通过访谈建立协作档案，并在授权后写入记忆、推荐官方集成。</text>
+    <circle cx="30" cy="161" r="5" fill="#519aba" />
+    <text x="42" y="166" fill="#c6cac4" font-size="12">Markdown</text>
+    <text x="188" y="166" fill="#8b949e" font-size="12">更新 2026-08-07</text>
+    <text x="382" y="166" fill="#f8d866" font-size="12">★ 0</text>
+    <text x="456" y="166" fill="#c6cac4" font-size="12">⑂ 0</text>
+  </g>
+</svg>

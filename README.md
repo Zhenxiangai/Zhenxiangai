@@ -34,23 +34,20 @@
 <details open>
   <summary><h2>🚀 当前实践</h2></summary>
 
-  <p>最近更新的公开原创项目。新建项目或推送更新后会自动刷新；Fork、私有与归档仓库不会展示。</p>
+  <p>最近更新的个人公开项目。原创仓库会自动发现，持续维护的衍生项目会加入精选；私有与归档仓库不会展示。新建项目或推送更新后每 12 小时自动同步。</p>
 
 <!--START_SECTION:current_projects-->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Zhenxiangai/link-video-downloader-zhenxiangai"><strong>link-video-downloader-zhenxiangai</strong></a><br />
-      把视频号、B站、小红书或抖音链接发给 Hermes，在 Mac 本地完成下载、整理和逐字稿；支持视频号、B站、抖音博主批量抓取。<br />
-      <sub>Python · 最近更新 2026-08-25</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Zhenxiangai/zhenxiang-hermes-knowme"><strong>zhenxiang-hermes-knowme</strong></a><br />
-      暂无项目简介<br />
-      <sub>最近更新 2026-08-07</sub>
-    </td>
-  </tr>
-</table>
+  <p align="left">
+    <a href="https://github.com/Zhenxiangai/kanwanle">
+      <img width="372" alt="看完了 · KanWanLe：面向 YouTube 与 B 站的本地优先 AI 视频学习扩展，提供时间戳字幕、双语阅读、章节金句、选文解释与笔记。" src="./assets/projects/kanwanle.svg?v=aada632f5a" />
+    </a>
+    <a href="https://github.com/Zhenxiangai/link-video-downloader-zhenxiangai">
+      <img width="372" alt="link-video-downloader-zhenxiangai：把视频号、B 站、小红书或抖音链接交给 Hermes，在 Mac 本地完成下载、整理与逐字稿，并支持博主批量抓取。" src="./assets/projects/link-video-downloader-zhenxiangai.svg?v=cb832e7014" />
+    </a>
+    <a href="https://github.com/Zhenxiangai/zhenxiang-hermes-knowme">
+      <img width="372" alt="zhenxiang-hermes-knowme：Hermes Agent 的自适应 onboarding 技能：通过访谈建立协作档案，并在授权后写入记忆、推荐官方集成。" src="./assets/projects/zhenxiang-hermes-knowme.svg?v=7c6b791529" />
+    </a>
+  </p>
 <!--END_SECTION:current_projects-->
 </details>
 
@@ -59,28 +56,30 @@
 
   <p>我正在使用或重点关注的开源项目。它们来自个人收藏，不代表由我开发或维护。</p>
 
+<!--START_SECTION:radar_projects-->
   <p align="left">
     <a href="https://github.com/NousResearch/hermes-agent">
-      <img width="49%" alt="Hermes Agent" src="./assets/cards/hermes-agent.svg" />
+      <img width="372" alt="Hermes Agent：能够持续成长并积累记忆的个人 AI Agent。" src="./assets/cards/hermes-agent.svg?v=4d7cffc118" />
     </a>
     <a href="https://github.com/qxcnm/Codex-Manager">
-      <img width="49%" alt="Codex Manager" src="./assets/cards/codex-manager.svg" />
+      <img width="372" alt="Codex Manager：Codex CLI 账号管理、切换与本地网关转发工具。" src="./assets/cards/codex-manager.svg?v=684a567c7e" />
     </a>
     <a href="https://github.com/larksuite/cli">
-      <img width="49%" alt="Lark / Feishu CLI" src="./assets/cards/lark-cli.svg" />
+      <img width="372" alt="Lark / Feishu CLI：面向人类与 AI Agent 的官方飞书 CLI，覆盖 200+ 命令与核心业务域。" src="./assets/cards/lark-cli.svg?v=4329301610" />
     </a>
     <a href="https://github.com/Tencent/WeKnora">
-      <img width="49%" alt="WeKnora" src="./assets/cards/weknora.svg" />
+      <img width="372" alt="WeKnora：把原始文档转成可查询的 RAG、推理 Agent 与自维护 Wiki。" src="./assets/cards/weknora.svg?v=b7d484cbe3" />
     </a>
     <a href="https://github.com/vectorize-io/hindsight">
-      <img width="49%" alt="Hindsight" src="./assets/cards/hindsight.svg" />
+      <img width="372" alt="Hindsight：会学习并持续改进的 Agent 长期记忆系统。" src="./assets/cards/hindsight.svg?v=01dccb0538" />
     </a>
     <a href="https://github.com/microsoft/markitdown">
-      <img width="49%" alt="MarkItDown" src="./assets/cards/markitdown.svg" />
+      <img width="372" alt="MarkItDown：把 Office、PDF 等文件转换为 Markdown，便于知识摄取与 Agent 工作流。" src="./assets/cards/markitdown.svg?v=c2f0eb73b6" />
     </a>
   </p>
 
-  <sub>Star 与 Fork 为 2026-07-26 数据快照；点击卡片可查看实时数据。</sub>
+  <sub>Star、Fork 与主要语言每 12 小时自动同步；最近同步 2026-09-01（UTC+8）。</sub>
+<!--END_SECTION:radar_projects-->
 </details>
 
 <details open>
@@ -120,11 +119,13 @@
 <details open>
   <summary><h2>📊 GitHub 数据与活动</h2></summary>
 
+<!--START_SECTION:profile_stats-->
   <div align="center">
-    <img alt="Public repositories: 2" src="https://img.shields.io/badge/PUBLIC_REPOS-2-9BFF18?style=for-the-badge&amp;logo=github&amp;logoColor=080A0B&amp;labelColor=111416" />
+    <img alt="Profile projects: 3" src="https://img.shields.io/badge/PROFILE_PROJECTS-3-9BFF18?style=for-the-badge&amp;logo=github&amp;logoColor=080A0B&amp;labelColor=111416" />
     <img alt="Open Source Radar: 6" src="https://img.shields.io/badge/RADAR_PROJECTS-6-9BFF18?style=for-the-badge&amp;logo=github&amp;logoColor=080A0B&amp;labelColor=111416" />
-    <img alt="Profile workflow enabled" src="https://img.shields.io/badge/AUTO_UPDATE-ENABLED-9BFF18?style=for-the-badge&amp;logo=githubactions&amp;logoColor=080A0B&amp;labelColor=111416" />
+    <img alt="Profile sync enabled" src="https://img.shields.io/badge/AUTO_SYNC-EVERY_12_HOURS-9BFF18?style=for-the-badge&amp;logo=githubactions&amp;logoColor=080A0B&amp;labelColor=111416" />
   </div>
+<!--END_SECTION:profile_stats-->
 
   <br />
 

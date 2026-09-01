@@ -1,14 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="170" viewBox="0 0 520 170" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="184" viewBox="0 0 520 184" role="img" aria-labelledby="title desc">
   <title id="title">Hermes Agent</title>
-  <desc id="desc">NousResearch 的持续成长型个人 Agent</desc>
-  <rect x="1" y="1" width="518" height="168" rx="10" fill="#111416" stroke="#30363d" />
-  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
-    <text x="24" y="38" fill="#9bff18" font-size="20" font-weight="700">hermes-agent</text>
-    <text x="24" y="61" fill="#8b949e" font-size="12">NousResearch</text>
-    <text x="24" y="94" fill="#c6cac4" font-size="14">The agent that grows with you.</text>
-    <circle cx="30" cy="144" r="5" fill="#3572a5" />
-    <text x="42" y="149" fill="#c6cac4" font-size="12">Python</text>
-    <text x="350" y="149" fill="#f8d866" font-size="12">★ 220.6k</text>
-    <text x="444" y="149" fill="#c6cac4" font-size="12">⑂ 42.0k</text>
+  <desc id="desc">能够持续成长并积累记忆的个人 AI Agent。</desc>
+  <rect x="1" y="1" width="518" height="182" rx="12" fill="#111416" stroke="#30363d" />
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">
+    <text x="24" y="39" fill="#9bff18" font-size="20" font-weight="700">Hermes Agent</text>
+    <text x="24" y="63" fill="#8b949e" font-size="12">NousResearch</text>
+    <text x="24" y="96" fill="#c6cac4" font-size="13">能够持续成长并积累记忆的个人 AI Agent。</text>
+    <text x="24" y="116" fill="#c6cac4" font-size="13"></text>
+    <circle cx="30" cy="161" r="5" fill="#3572a5" />
+    <text x="42" y="166" fill="#c6cac4" font-size="12">Python</text>
+    <text x="360" y="166" fill="#f8d866" font-size="12">★ 239.1k</text>
+    <text x="448" y="166" fill="#c6cac4" font-size="12">⑂ 48.8k</text>
   </g>
 </svg>
