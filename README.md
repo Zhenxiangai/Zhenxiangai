@@ -38,9 +38,6 @@
 
 <!--START_SECTION:current_projects-->
   <p align="left">
-    <a href="https://github.com/Zhenxiangai/kanwanle">
-      <img width="372" alt="看完了 · KanWanLe：面向 YouTube 与 B 站的本地优先 AI 视频学习扩展，提供时间戳字幕、双语阅读、章节金句、选文解释与笔记。" src="./assets/projects/kanwanle.svg?v=aada632f5a" />
-    </a>
     <a href="https://github.com/Zhenxiangai/link-video-downloader-zhenxiangai">
       <img width="372" alt="link-video-downloader-zhenxiangai：把视频号、B 站、小红书或抖音链接交给 Hermes，在 Mac 本地完成下载、整理与逐字稿，并支持博主批量抓取。" src="./assets/projects/link-video-downloader-zhenxiangai.svg?v=cb832e7014" />
     </a>
@@ -59,10 +56,10 @@
 <!--START_SECTION:radar_projects-->
   <p align="left">
     <a href="https://github.com/NousResearch/hermes-agent">
-      <img width="372" alt="Hermes Agent：能够持续成长并积累记忆的个人 AI Agent。" src="./assets/cards/hermes-agent.svg?v=4d7cffc118" />
+      <img width="372" alt="Hermes Agent：能够持续成长并积累记忆的个人 AI Agent。" src="./assets/cards/hermes-agent.svg?v=38764dc7ec" />
     </a>
     <a href="https://github.com/qxcnm/Codex-Manager">
-      <img width="372" alt="Codex Manager：Codex CLI 账号管理、切换与本地网关转发工具。" src="./assets/cards/codex-manager.svg?v=684a567c7e" />
+      <img width="372" alt="Codex Manager：Codex CLI 账号管理、切换与本地网关转发工具。" src="./assets/cards/codex-manager.svg?v=b4fb43be7d" />
     </a>
     <a href="https://github.com/larksuite/cli">
       <img width="372" alt="Lark / Feishu CLI：面向人类与 AI Agent 的官方飞书 CLI，覆盖 200+ 命令与核心业务域。" src="./assets/cards/lark-cli.svg?v=4329301610" />
@@ -71,14 +68,14 @@
       <img width="372" alt="WeKnora：把原始文档转成可查询的 RAG、推理 Agent 与自维护 Wiki。" src="./assets/cards/weknora.svg?v=b7d484cbe3" />
     </a>
     <a href="https://github.com/vectorize-io/hindsight">
-      <img width="372" alt="Hindsight：会学习并持续改进的 Agent 长期记忆系统。" src="./assets/cards/hindsight.svg?v=01dccb0538" />
+      <img width="372" alt="Hindsight：会学习并持续改进的 Agent 长期记忆系统。" src="./assets/cards/hindsight.svg?v=c6488d5e29" />
     </a>
     <a href="https://github.com/microsoft/markitdown">
-      <img width="372" alt="MarkItDown：把 Office、PDF 等文件转换为 Markdown，便于知识摄取与 Agent 工作流。" src="./assets/cards/markitdown.svg?v=10c8a9ffd5" />
+      <img width="372" alt="MarkItDown：把 Office、PDF 等文件转换为 Markdown，便于知识摄取与 Agent 工作流。" src="./assets/cards/markitdown.svg?v=2571e673ae" />
     </a>
   </p>
 
-  <sub>Star、Fork 与主要语言每 12 小时自动同步；最近同步 2026-09-01（UTC+8）。</sub>
+  <sub>Star、Fork 与主要语言每 12 小时自动同步；最近同步 2026-09-02（UTC+8）。</sub>
 <!--END_SECTION:radar_projects-->
 </details>
 
@@ -121,7 +118,7 @@
 
 <!--START_SECTION:profile_stats-->
   <div align="center">
-    <img alt="Profile projects: 3" src="https://img.shields.io/badge/PROFILE_PROJECTS-3-9BFF18?style=for-the-badge&amp;logo=github&amp;logoColor=080A0B&amp;labelColor=111416" />
+    <img alt="Profile projects: 2" src="https://img.shields.io/badge/PROFILE_PROJECTS-2-9BFF18?style=for-the-badge&amp;logo=github&amp;logoColor=080A0B&amp;labelColor=111416" />
     <img alt="Open Source Radar: 6" src="https://img.shields.io/badge/RADAR_PROJECTS-6-9BFF18?style=for-the-badge&amp;logo=github&amp;logoColor=080A0B&amp;labelColor=111416" />
     <img alt="Profile sync enabled" src="https://img.shields.io/badge/AUTO_SYNC-EVERY_12_HOURS-9BFF18?style=for-the-badge&amp;logo=githubactions&amp;logoColor=080A0B&amp;labelColor=111416" />
   </div>
