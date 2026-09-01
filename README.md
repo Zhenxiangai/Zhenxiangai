@@ -140,7 +140,7 @@
   <h3>⚡ 最近 GitHub 活动</h3>
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [Video Digest v1.6.0](https://github.com/Zhenxiangai/kanwanle/releases/tag/v1.6.0) in [Zhenxiangai/kanwanle](https://github.com/Zhenxiangai/kanwanle)
+1. 🚀 Published release [看完了 v2.1.2](https://github.com/Zhenxiangai/kanwanle/releases/tag/v2.1.2) in [Zhenxiangai/kanwanle](https://github.com/Zhenxiangai/kanwanle)
   <!--END_SECTION:activity-->
 </details>
 
