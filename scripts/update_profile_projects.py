@@ -304,13 +304,28 @@ def write_text(path: Path, value: str):
         path.write_text(value)
 
 
+def project_description(repo, override) -> str:
+    description = override.get("description", repo.get("description"))
+    if not description or not description.strip():
+        full_name = repo.get("full_name", repo["name"])
+        raise SystemExit(
+            f"{full_name} needs a GitHub description or PROJECT_OVERRIDES entry"
+        )
+    return description.strip()
+
+
+def project_slug(name: str) -> str:
+    slug = name.lower()
+    if not re.fullmatch(r"[a-z0-9._-]+", slug):
+        raise SystemExit(f"unsupported GitHub repository name: {name}")
+    return slug
+
+
 def project_card(repo):
     override = PROJECT_OVERRIDES.get(repo["name"], {})
     title = override.get("title", repo["name"])
     subtitle = override.get("subtitle", repo["owner"]["login"])
-    description = override.get("description", repo.get("description"))
-    if not description:
-        description = "项目说明正在整理中；点击卡片可查看仓库 README。"
+    description = project_description(repo, override)
     language = language_for(repo, override)
     svg = card_svg(
         title=title,
@@ -321,7 +336,7 @@ def project_card(repo):
         forks=repo["forks_count"],
         updated=repo["pushed_at"][:10],
     )
-    slug = re.sub(r"[^a-z0-9-]+", "-", repo["name"].lower()).strip("-")
+    slug = project_slug(repo["name"])
     path = PROJECT_CARD_DIR / f"{slug}.svg"
     return repo, title, path, svg
 
@@ -346,11 +361,12 @@ def render_cards(cards, relative_dir: str, start: str, end: str) -> str:
         if "html_url" in item:
             url = item["html_url"]
             override = PROJECT_OVERRIDES.get(item["name"], {})
-            description = override.get("description", item.get("description"))
+            description = project_description(item, override)
         else:
             url = f"https://github.com/{item['repository']}"
             description = item["description"]
-        description = description or "点击卡片查看项目说明"
+        if not description or not description.strip():
+            raise SystemExit(f"{title} needs a card description")
         alt = f"{title}：{description}"
         src = f"./{relative_dir}/{path.name}?v={digest(svg)}"
         lines.extend(
@@ -396,9 +412,13 @@ def render_stats(project_count: int) -> str:
 
 
 def replace_section(current: str, start: str, end: str, replacement: str) -> str:
-    before, separator, tail = current.partition(start)
-    if not separator or end not in tail:
-        raise SystemExit(f"README markers are missing: {start} / {end}")
+    if current.count(start) != 1 or current.count(end) != 1:
+        raise SystemExit(
+            f"README markers must appear exactly once: {start} / {end}"
+        )
+    before, _separator, tail = current.partition(start)
+    if end not in tail:
+        raise SystemExit(f"README markers are out of order: {start} / {end}")
     _, _, after = tail.partition(end)
     return before + replacement + after
 
