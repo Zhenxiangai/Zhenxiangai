@@ -137,7 +137,7 @@
   <h3>⚡ 最近 GitHub 活动</h3>
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [看完啦 2.2.3](https://github.com/Zhenxiangai/kanwanla/releases/tag/v2.2.3) in [Zhenxiangai/kanwanla](https://github.com/Zhenxiangai/kanwanla)
+1. 💪 Opened PR [#101358](https://github.com/NousResearch/hermes-agent/pull/101358) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   <!--END_SECTION:activity-->
 </details>
 
