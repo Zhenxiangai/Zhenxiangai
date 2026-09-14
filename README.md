@@ -39,7 +39,7 @@
 <!--START_SECTION:current_projects-->
   <p align="left">
     <a href="https://github.com/Zhenxiangai/link-video-downloader-zhenxiangai">
-      <img width="372" alt="link-video-downloader-zhenxiangai：把视频号、B 站、小红书或抖音链接交给 Hermes，在 Mac 本地完成下载、整理与逐字稿，并支持博主批量抓取。" src="./assets/projects/link-video-downloader-zhenxiangai.svg?v=7d6dd46590" />
+      <img width="372" alt="link-video-downloader-zhenxiangai：把视频号、B 站、小红书或抖音链接交给 Hermes，在 Mac 本地完成下载、整理与逐字稿，并支持博主批量抓取。" src="./assets/projects/link-video-downloader-zhenxiangai.svg?v=c337348732" />
     </a>
     <a href="https://github.com/Zhenxiangai/zhenxiang-hermes-knowme">
       <img width="372" alt="zhenxiang-hermes-knowme：Hermes Agent 的自适应 onboarding 技能：通过访谈建立协作档案，并在授权后写入记忆、推荐官方集成。" src="./assets/projects/zhenxiang-hermes-knowme.svg?v=7c6b791529" />
@@ -56,7 +56,7 @@
 <!--START_SECTION:radar_projects-->
   <p align="left">
     <a href="https://github.com/NousResearch/hermes-agent">
-      <img width="372" alt="Hermes Agent：能够持续成长并积累记忆的个人 AI Agent。" src="./assets/cards/hermes-agent.svg?v=af6593be84" />
+      <img width="372" alt="Hermes Agent：能够持续成长并积累记忆的个人 AI Agent。" src="./assets/cards/hermes-agent.svg?v=9862fd7c52" />
     </a>
     <a href="https://github.com/qxcnm/Codex-Manager">
       <img width="372" alt="Codex Manager：Codex CLI 账号管理、切换与本地网关转发工具。" src="./assets/cards/codex-manager.svg?v=4d65647ec1" />
@@ -65,17 +65,17 @@
       <img width="372" alt="Lark / Feishu CLI：面向人类与 AI Agent 的官方飞书 CLI，覆盖 200+ 命令与核心业务域。" src="./assets/cards/lark-cli.svg?v=24c38585cf" />
     </a>
     <a href="https://github.com/Tencent/WeKnora">
-      <img width="372" alt="WeKnora：把原始文档转成可查询的 RAG、推理 Agent 与自维护 Wiki。" src="./assets/cards/weknora.svg?v=26591c77df" />
+      <img width="372" alt="WeKnora：把原始文档转成可查询的 RAG、推理 Agent 与自维护 Wiki。" src="./assets/cards/weknora.svg?v=d6b3685d50" />
     </a>
     <a href="https://github.com/vectorize-io/hindsight">
-      <img width="372" alt="Hindsight：会学习并持续改进的 Agent 长期记忆系统。" src="./assets/cards/hindsight.svg?v=6ba1a8afad" />
+      <img width="372" alt="Hindsight：会学习并持续改进的 Agent 长期记忆系统。" src="./assets/cards/hindsight.svg?v=22b7785e99" />
     </a>
     <a href="https://github.com/microsoft/markitdown">
-      <img width="372" alt="MarkItDown：把 Office、PDF 等文件转换为 Markdown，便于知识摄取与 Agent 工作流。" src="./assets/cards/markitdown.svg?v=fff147c35e" />
+      <img width="372" alt="MarkItDown：把 Office、PDF 等文件转换为 Markdown，便于知识摄取与 Agent 工作流。" src="./assets/cards/markitdown.svg?v=cc5ae823e9" />
     </a>
   </p>
 
-  <sub>Star、Fork 与主要语言每 12 小时自动同步；最近同步 2026-09-14（UTC+8）。</sub>
+  <sub>Star、Fork 与主要语言每 12 小时自动同步；最近同步 2026-09-15（UTC+8）。</sub>
 <!--END_SECTION:radar_projects-->
 </details>
 
