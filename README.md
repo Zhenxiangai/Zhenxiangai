@@ -39,7 +39,7 @@
 <!--START_SECTION:current_projects-->
   <p align="left">
     <a href="https://github.com/Zhenxiangai/link-video-downloader-zhenxiangai">
-      <img width="372" alt="link-video-downloader-zhenxiangai：把视频号、B 站、小红书或抖音链接交给 Hermes，在 Mac 本地完成下载、整理与逐字稿，并支持博主批量抓取。" src="./assets/projects/link-video-downloader-zhenxiangai.svg?v=c337348732" />
+      <img width="372" alt="link-video-downloader-zhenxiangai：把视频号、B 站、小红书或抖音链接交给 Hermes，在 Mac 本地完成下载、整理与逐字稿，并支持博主批量抓取。" src="./assets/projects/link-video-downloader-zhenxiangai.svg?v=e9e42db7ca" />
     </a>
     <a href="https://github.com/Zhenxiangai/zhenxiang-hermes-knowme">
       <img width="372" alt="zhenxiang-hermes-knowme：Hermes Agent 的自适应 onboarding 技能：通过访谈建立协作档案，并在授权后写入记忆、推荐官方集成。" src="./assets/projects/zhenxiang-hermes-knowme.svg?v=7c6b791529" />
@@ -56,22 +56,22 @@
 <!--START_SECTION:radar_projects-->
   <p align="left">
     <a href="https://github.com/NousResearch/hermes-agent">
-      <img width="372" alt="Hermes Agent：能够持续成长并积累记忆的个人 AI Agent。" src="./assets/cards/hermes-agent.svg?v=de7b99ef47" />
+      <img width="372" alt="Hermes Agent：能够持续成长并积累记忆的个人 AI Agent。" src="./assets/cards/hermes-agent.svg?v=86263cac57" />
     </a>
     <a href="https://github.com/qxcnm/Codex-Manager">
       <img width="372" alt="Codex Manager：Codex CLI 账号管理、切换与本地网关转发工具。" src="./assets/cards/codex-manager.svg?v=b83dec5958" />
     </a>
     <a href="https://github.com/larksuite/cli">
-      <img width="372" alt="Lark / Feishu CLI：面向人类与 AI Agent 的官方飞书 CLI，覆盖 200+ 命令与核心业务域。" src="./assets/cards/lark-cli.svg?v=c1a62ef1e2" />
+      <img width="372" alt="Lark / Feishu CLI：面向人类与 AI Agent 的官方飞书 CLI，覆盖 200+ 命令与核心业务域。" src="./assets/cards/lark-cli.svg?v=ad797e11d4" />
     </a>
     <a href="https://github.com/Tencent/WeKnora">
-      <img width="372" alt="WeKnora：把原始文档转成可查询的 RAG、推理 Agent 与自维护 Wiki。" src="./assets/cards/weknora.svg?v=6d4bf642c4" />
+      <img width="372" alt="WeKnora：把原始文档转成可查询的 RAG、推理 Agent 与自维护 Wiki。" src="./assets/cards/weknora.svg?v=33eed43e0c" />
     </a>
     <a href="https://github.com/vectorize-io/hindsight">
-      <img width="372" alt="Hindsight：会学习并持续改进的 Agent 长期记忆系统。" src="./assets/cards/hindsight.svg?v=930cf9c7a2" />
+      <img width="372" alt="Hindsight：会学习并持续改进的 Agent 长期记忆系统。" src="./assets/cards/hindsight.svg?v=3d3c7cebee" />
     </a>
     <a href="https://github.com/microsoft/markitdown">
-      <img width="372" alt="MarkItDown：把 Office、PDF 等文件转换为 Markdown，便于知识摄取与 Agent 工作流。" src="./assets/cards/markitdown.svg?v=bd3afa5a6a" />
+      <img width="372" alt="MarkItDown：把 Office、PDF 等文件转换为 Markdown，便于知识摄取与 Agent 工作流。" src="./assets/cards/markitdown.svg?v=3342e8c0b8" />
     </a>
   </p>
 
