@@ -56,26 +56,26 @@
 <!--START_SECTION:radar_projects-->
   <p align="left">
     <a href="https://github.com/NousResearch/hermes-agent">
-      <img width="372" alt="Hermes Agent：能够持续成长并积累记忆的个人 AI Agent。" src="./assets/cards/hermes-agent.svg?v=11c6dc1333" />
+      <img width="372" alt="Hermes Agent：能够持续成长并积累记忆的个人 AI Agent。" src="./assets/cards/hermes-agent.svg?v=6fe8b38bc2" />
     </a>
     <a href="https://github.com/qxcnm/Codex-Manager">
-      <img width="372" alt="Codex Manager：Codex CLI 账号管理、切换与本地网关转发工具。" src="./assets/cards/codex-manager.svg?v=17a1647e94" />
+      <img width="372" alt="Codex Manager：Codex CLI 账号管理、切换与本地网关转发工具。" src="./assets/cards/codex-manager.svg?v=5e691e223b" />
     </a>
     <a href="https://github.com/larksuite/cli">
       <img width="372" alt="Lark / Feishu CLI：面向人类与 AI Agent 的官方飞书 CLI，覆盖 200+ 命令与核心业务域。" src="./assets/cards/lark-cli.svg?v=38a7a49e68" />
     </a>
     <a href="https://github.com/Tencent/WeKnora">
-      <img width="372" alt="WeKnora：把原始文档转成可查询的 RAG、推理 Agent 与自维护 Wiki。" src="./assets/cards/weknora.svg?v=efea228fb2" />
+      <img width="372" alt="WeKnora：把原始文档转成可查询的 RAG、推理 Agent 与自维护 Wiki。" src="./assets/cards/weknora.svg?v=2c1561850f" />
     </a>
     <a href="https://github.com/vectorize-io/hindsight">
-      <img width="372" alt="Hindsight：会学习并持续改进的 Agent 长期记忆系统。" src="./assets/cards/hindsight.svg?v=738409a046" />
+      <img width="372" alt="Hindsight：会学习并持续改进的 Agent 长期记忆系统。" src="./assets/cards/hindsight.svg?v=cc45be726b" />
     </a>
     <a href="https://github.com/microsoft/markitdown">
-      <img width="372" alt="MarkItDown：把 Office、PDF 等文件转换为 Markdown，便于知识摄取与 Agent 工作流。" src="./assets/cards/markitdown.svg?v=5e39f4d61a" />
+      <img width="372" alt="MarkItDown：把 Office、PDF 等文件转换为 Markdown，便于知识摄取与 Agent 工作流。" src="./assets/cards/markitdown.svg?v=f77d1b1316" />
     </a>
   </p>
 
-  <sub>Star、Fork 与主要语言每 12 小时自动同步；最近同步 2026-10-10（UTC+8）。</sub>
+  <sub>Star、Fork 与主要语言每 12 小时自动同步；最近同步 2026-10-11（UTC+8）。</sub>
 <!--END_SECTION:radar_projects-->
 </details>
 
