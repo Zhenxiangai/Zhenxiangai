@@ -56,7 +56,7 @@
 <!--START_SECTION:radar_projects-->
   <p align="left">
     <a href="https://github.com/NousResearch/hermes-agent">
-      <img width="372" alt="Hermes Agent：能够持续成长并积累记忆的个人 AI Agent。" src="./assets/cards/hermes-agent.svg?v=5b5a859dcd" />
+      <img width="372" alt="Hermes Agent：能够持续成长并积累记忆的个人 AI Agent。" src="./assets/cards/hermes-agent.svg?v=e32620d324" />
     </a>
     <a href="https://github.com/qxcnm/Codex-Manager">
       <img width="372" alt="Codex Manager：Codex CLI 账号管理、切换与本地网关转发工具。" src="./assets/cards/codex-manager.svg?v=5e691e223b" />
@@ -65,10 +65,10 @@
       <img width="372" alt="Lark / Feishu CLI：面向人类与 AI Agent 的官方飞书 CLI，覆盖 200+ 命令与核心业务域。" src="./assets/cards/lark-cli.svg?v=db8c136f54" />
     </a>
     <a href="https://github.com/Tencent/WeKnora">
-      <img width="372" alt="WeKnora：把原始文档转成可查询的 RAG、推理 Agent 与自维护 Wiki。" src="./assets/cards/weknora.svg?v=04e923da0c" />
+      <img width="372" alt="WeKnora：把原始文档转成可查询的 RAG、推理 Agent 与自维护 Wiki。" src="./assets/cards/weknora.svg?v=4618f834c4" />
     </a>
     <a href="https://github.com/vectorize-io/hindsight">
-      <img width="372" alt="Hindsight：会学习并持续改进的 Agent 长期记忆系统。" src="./assets/cards/hindsight.svg?v=416fd06687" />
+      <img width="372" alt="Hindsight：会学习并持续改进的 Agent 长期记忆系统。" src="./assets/cards/hindsight.svg?v=816bd3b408" />
     </a>
     <a href="https://github.com/microsoft/markitdown">
       <img width="372" alt="MarkItDown：把 Office、PDF 等文件转换为 Markdown，便于知识摄取与 Agent 工作流。" src="./assets/cards/markitdown.svg?v=8a9698b2f3" />
