@@ -39,7 +39,7 @@
 <!--START_SECTION:current_projects-->
   <p align="left">
     <a href="https://github.com/Zhenxiangai/link-video-downloader-zhenxiangai">
-      <img width="372" alt="link-video-downloader-zhenxiangai：把视频号、B 站、小红书或抖音链接交给 Hermes，在 Mac 本地完成下载、整理与逐字稿，并支持博主批量抓取。" src="./assets/projects/link-video-downloader-zhenxiangai.svg?v=ab49e3b6e7" />
+      <img width="372" alt="link-video-downloader-zhenxiangai：把视频号、B 站、小红书或抖音链接交给 Hermes，在 Mac 本地完成下载、整理与逐字稿，并支持博主批量抓取。" src="./assets/projects/link-video-downloader-zhenxiangai.svg?v=0b1405da73" />
     </a>
     <a href="https://github.com/Zhenxiangai/zhenxiang-hermes-knowme">
       <img width="372" alt="zhenxiang-hermes-knowme：Hermes Agent 的自适应 onboarding 技能：通过访谈建立协作档案，并在授权后写入记忆、推荐官方集成。" src="./assets/projects/zhenxiang-hermes-knowme.svg?v=7c6b791529" />
@@ -56,7 +56,7 @@
 <!--START_SECTION:radar_projects-->
   <p align="left">
     <a href="https://github.com/NousResearch/hermes-agent">
-      <img width="372" alt="Hermes Agent：能够持续成长并积累记忆的个人 AI Agent。" src="./assets/cards/hermes-agent.svg?v=0890b16af9" />
+      <img width="372" alt="Hermes Agent：能够持续成长并积累记忆的个人 AI Agent。" src="./assets/cards/hermes-agent.svg?v=90b399b5a4" />
     </a>
     <a href="https://github.com/qxcnm/Codex-Manager">
       <img width="372" alt="Codex Manager：Codex CLI 账号管理、切换与本地网关转发工具。" src="./assets/cards/codex-manager.svg?v=cd8c853165" />
@@ -68,14 +68,14 @@
       <img width="372" alt="WeKnora：把原始文档转成可查询的 RAG、推理 Agent 与自维护 Wiki。" src="./assets/cards/weknora.svg?v=eeb274951f" />
     </a>
     <a href="https://github.com/vectorize-io/hindsight">
-      <img width="372" alt="Hindsight：会学习并持续改进的 Agent 长期记忆系统。" src="./assets/cards/hindsight.svg?v=f24bb04fa6" />
+      <img width="372" alt="Hindsight：会学习并持续改进的 Agent 长期记忆系统。" src="./assets/cards/hindsight.svg?v=b839249378" />
     </a>
     <a href="https://github.com/microsoft/markitdown">
-      <img width="372" alt="MarkItDown：把 Office、PDF 等文件转换为 Markdown，便于知识摄取与 Agent 工作流。" src="./assets/cards/markitdown.svg?v=2d34f3cbd9" />
+      <img width="372" alt="MarkItDown：把 Office、PDF 等文件转换为 Markdown，便于知识摄取与 Agent 工作流。" src="./assets/cards/markitdown.svg?v=d0ee9e46c4" />
     </a>
   </p>
 
-  <sub>Star、Fork 与主要语言每 12 小时自动同步；最近同步 2026-11-26（UTC+8）。</sub>
+  <sub>Star、Fork 与主要语言每 12 小时自动同步；最近同步 2026-11-27（UTC+8）。</sub>
 <!--END_SECTION:radar_projects-->
 </details>
 
